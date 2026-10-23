@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Raw dataset — not needed at runtime; regenerate with prepare_data.py
+data/
